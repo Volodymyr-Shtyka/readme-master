@@ -69,8 +69,7 @@ function init() {
     inquirer.prompt(questions)
         .then(answers => {
             const markdown = generateMarkdown(answers);
-            // writeToFile("README_TEMPLATE.md", markdown);
-            console.log('testing prompts');
+            writeToFile("README_TEMPLATE.md", markdown);
         })
         .catch(error => {
             console.error("An error occurred:", error);
