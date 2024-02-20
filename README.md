@@ -51,6 +51,11 @@ README_TEMPLATE.md file will be generated in the project directory.
 
 Access the deployed Professional README Generator application [here](https://volodymyr-shtyka.github.io/readme-master/).
 
+## Walkthrough Video
+
+Watch a walkthrough video demonstrating the functionality of the Professional README
+Generator [here](https://app.screencastify.com/v3/watch/EoexBPo3k6Uy2OQ25bXy).
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
